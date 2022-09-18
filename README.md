@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RZemiitis
+- 👀 I’m interested in learning new things about programming, web design, etc.
+- 🌱 I’m currently learning web development, react.
+- 💞️ I’m looking to collaborate on web developement teams.
+- 📫 How to reach me ricardskz2008@gmail.com
